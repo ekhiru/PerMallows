@@ -1,0 +1,16 @@
+{
+    "contents" : "Package: PerMallows\nType: Package\nTitle: Permutations and Mallows distributions\nVersion: 1.7\nDate: 2013-06-24\nAuthor: Ekhine Irurozki <ekhine.irurozqui@ehu.es>\nMaintainer: Ekhine Irurozki <ekhine.irurozqui@ehu.es>\nDescription: This package includes functions to work with the Mallows, Generalized Mallows and Weighted Mallows Models. The considered distances are Kendall's-tau, Cayley, Hamming and Ulam and it includes functions for making inference, sampling and learning such distributions, some of which are novel in the literature. As a by-product, PerMallows also includes operations for permutations, paying special attention in those related with the Kendall's-tau, Cayley, Ulam and Hamming distances and the random generation of permutations. \nLicense: GPL (>= 2)\nDepends: Rcpp (>= 0.10.3)\nLinkingTo: Rcpp\n",
+    "created" : 1417613400555.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3246405398",
+    "id" : "4AEDC3AC",
+    "lastKnownWriteTime" : 1410768530,
+    "path" : "~/Dropbox/permus/prj/R/PerMallows/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "dcf"
+}
